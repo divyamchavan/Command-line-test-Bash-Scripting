@@ -3,7 +3,7 @@ A Bash Script to conduct an online quiz.
 
 A participant is requested to create a acccount before attempting the quiz.
 The quiz contains 10 questions on bash basic commands.
-Each question has to be answered in 60sec.
+Each question has to be answered in 10sec.
 After attempting the test the results page shows the marks scored.
 
 The zip file includes the following files
@@ -24,11 +24,11 @@ The zip file includes the following files
     
  ![image](https://user-images.githubusercontent.com/121415464/222971035-42c4ea78-24de-43f4-b162-a5f7a09f9f23.png)
  
-   3. Test
+   3. Simulating the test.
 
  ![image](https://user-images.githubusercontent.com/121415464/222971338-e9b4cf74-c4f7-483f-92de-45cbd6f07f66.png)
 
- 4. Results
+ 4. Show the results of test.
  
  ![image](https://user-images.githubusercontent.com/121415464/222972115-4de81486-d2a3-4297-b664-4e4c92c4d889.png)
 
