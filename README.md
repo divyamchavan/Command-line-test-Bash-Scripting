@@ -13,5 +13,22 @@ The zip file includes the following files
     4.Users answers
     5.Users name
     6.User password
+    
+    Now lets run the project
+    
+    1. lets create user Tina and set her password
 
 ![image](https://user-images.githubusercontent.com/121415464/222970784-daa28144-8398-4ef7-95b5-f299582c9d7e.png)
+
+    2. Sign in using Tina's credentials
+    
+ ![image](https://user-images.githubusercontent.com/121415464/222971035-42c4ea78-24de-43f4-b162-a5f7a09f9f23.png)
+ 
+   3. Test
+
+ ![image](https://user-images.githubusercontent.com/121415464/222971338-e9b4cf74-c4f7-483f-92de-45cbd6f07f66.png)
+
+ 4. Results
+ 
+ 
+
